@@ -1,0 +1,10 @@
+BİLET NUMARASI   | İSMİ         | SOYADI       | YAŞI   | ÖĞRENCİ       | SEFER İSMİ        | SEFER SAATLERİ    | KOLTUK NUMARASI | BAGAJ YÜKÜ | EK HİZMET        | BİLET ÜCRETİ | BAGAJ UCRETİ | TOPLAM UCRET|
+1030               Ceydanur       Gezer          21       EVET            ADANA-HAKKARİ       10:00-11:30         30                15           YOK                1400TL         0TL            1400TL       
+2067               Feyzanur       Gezer          8        EVET            İSTANBUL-ANKARA     15:00-16:00         67                15           YOK                175TL          0TL            175TL        
+2068               Fatma          Gezer          45       HAYIR           İSTANBUL-ANKARA     15:00-16:00         68                15           YOK                500TL          0TL            500TL        
+4009               Nedim          Gezer          48       HAYIR           ANKARA-SİİRT        22:00-23:10         9                 15           YOK                1000TL         0TL            1000TL       
+3083               Beyzanur       Gezer          23       EVET            VAN-ANTALYA         07:00-09:00         83                15           YOK                1050TL         0TL            1050TL       
+4008               Yiğit          Gezer          2        HAYIR           ANKARA-SİİRT        22:00-23:10         8                 15           YOK                500TL          0TL            500TL        
+3001               Fadil          Gezer          45       HAYIR           VAN-ANTALYA         07:00-09:00         1                 21           YOK                750TL          900TL          1650TL       
+3002               gülüzar        öztürkmen      18       EVET            VAN-ANTALYA         07:00-09:00         2                 15           YOK                1050TL         0TL            1050TL       
+4089               Ceyda          Gezer          21       EVET            ANKARA-SİİRT        22:00-23:10         89                15           YOK                490TL          0TL            490TL        
